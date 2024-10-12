@@ -1,0 +1,123 @@
+apple: A sweet fruit that comes in red, green, or yellow
+banana: A long, yellow tropical fruit
+carrot: An orange root vegetable
+dog: A common domesticated animal, often kept as a pet
+elephant: A large mammal with a trunk
+dinosaur: An extinct group of reptiles
+pyramid: Ancient Egyptian structure
+astronomy: Study of stars and planets
+keyboard: Input device for typing
+mountain: A large natural elevation of the earth’s surface
+galaxy: A system of stars and planets
+oxygen: A gas essential for respiration
+water: A liquid necessary for life
+giraffe: The tallest living animal with a long neck
+bicycle: A two-wheeled vehicle that you pedal to move
+airplane: A vehicle that flies in the sky
+computer: A device used for processing data
+python: A popular programming language named after a snake
+guitar: A musical instrument with six strings
+piano: A large keyboard musical instrument
+penguin: A flightless bird that lives in Antarctica
+chocolate: A sweet, brown food made from roasted cocoa beans
+tiger: A large wild cat with orange fur and black stripes
+lion: The king of the jungle
+zebra: A black and white striped animal
+school: A place where students learn
+hospital: A place where people go to get medical treatment
+library: A place where books are kept
+rainbow: An arc of colors in the sky after rain
+rocket: A vehicle that flies into space
+ocean: A large body of salt water
+sun: The star at the center of our solar system
+moon: The Earth’s natural satellite
+volcano: A mountain that erupts with lava
+earthquake: A sudden shaking of the ground
+hurricane: A powerful tropical storm with strong winds
+football: A sport played with a round ball and goals
+basketball: A sport where players shoot a ball into a hoop
+cricket: A bat-and-ball game played with wickets
+tennis: A game played with rackets and a small ball
+chess: A strategic board game with 16 pieces per player
+robot: A machine capable of carrying out complex tasks
+astronaut: A person trained to travel in space
+doctor: A person who treats sick people
+teacher: A person who helps students learn
+engineer: A person who designs and builds things
+firefighter: A person trained to put out fires
+police: A person who enforces the law
+chef: A professional cook
+dancer: A person who moves rhythmically to music
+author: A person who writes books or stories
+artist: A person who creates art, like paintings or sculptures
+nurse: A person trained to care for sick people
+dentist: A person who treats teeth problems
+scientist: A person who conducts research to understand the world
+pilot: A person who flies an airplane
+driver: A person who operates a vehicle
+programmer: A person who writes code for computers
+farmer: A person who grows crops or raises animals
+electrician: A person who installs or repairs electrical systems
+plumber: A person who fixes or installs water pipes
+carpenter: A person who builds or repairs wooden structures
+mechanic: A person who repairs machinery, like cars
+barber: A person who cuts hair
+butcher: A person who prepares meat for sale
+gardener: A person who tends to plants
+waiter: A person who serves food in a restaurant
+baker: A person who makes bread and cakes
+tailor: A person who makes or alters clothing
+juggler: A person who throws and catches objects skillfully
+architect: A person who designs buildings
+lawyer: A person who practices law
+judge: A person who presides over court proceedings
+director: A person who oversees a film or play
+musician: A person who plays a musical instrument
+actor: A person who performs in plays or films
+comedian: A person who makes people laugh
+magician: A person who performs tricks or illusions
+clown: A performer who entertains people, often in a circus
+pilot: A person who flies an airplane
+sailor: A person who works on a boat or ship
+captain: A person in charge of a ship or an airplane
+ninja: A skilled fighter trained in stealth
+pirate: A person who attacks ships at sea
+king: A male ruler of a country
+queen: A female ruler or the wife of a king
+president: A leader of a country or organization
+governor: A person in charge of a state or province
+mayor: The leader of a city or town
+scientist: A person who studies the natural world
+astronomer: A scientist who studies stars and planets
+biologist: A scientist who studies living organisms
+geologist: A scientist who studies the Earth
+physicist: A scientist who studies physics
+chemist: A scientist who studies chemicals and reactions
+mathematician: A person who studies numbers and equations
+psychologist: A person who studies the human mind and behavior
+historian: A person who studies history
+linguist: A person who studies languages
+anthropologist: A person who studies human societies and cultures
+sociologist: A person who studies social behavior
+economist: A person who studies how money and resources are used
+philosopher: A person who thinks deeply about life and existence
+politician: A person involved in governing a country or community
+journalist: A person who writes news stories
+photographer: A person who takes photos
+director: A person in charge of making movies
+editor: A person who reviews and corrects written work
+publisher: A person or company that produces books or magazines
+engineer: A person who designs and builds things
+computer: An electronic device that processes information
+telephone: A device used to talk to someone far away
+television: A device that displays moving images
+radio: A device used to listen to audio broadcasts
+newspaper: A publication with news stories
+magazine: A publication with articles and images
+book: A set of written pages bound together
+pen: A tool used for writing with ink
+pencil: A tool used for writing with graphite
+ruler: A tool used for measuring lengths
+scissors: A tool used for cutting paper or fabric
+notebook: A book with blank pages for writing in
+calculator: A device used for performing mathematical calculations
